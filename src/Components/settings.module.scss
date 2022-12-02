@@ -1,0 +1,36 @@
+.slider {
+  height: 40px;
+  border-radius: 20px;
+}
+
+.greenBack {
+  background-color: #98ee16;
+  outline: none !important;
+}
+
+.greenBorder {
+  border: 2px solid #98ee16;
+}
+
+.orangeBack {
+  background-color: #ef6c13;
+  outline: none !important;
+}
+
+.orangeBorder {
+  border: 2px solid #ef6c13;
+
+}
+
+.handle {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+label {
+  text-align: left;
+  display: block;
+  margin: 20px 0 15px 0;
+}
